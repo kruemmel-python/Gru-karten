@@ -130,7 +130,7 @@ Für weitere Informationen über PySide6 und dessen Lizenzierung, besuchen Sie b
 - PySide6 GitHub-Repository: [PySide6 auf GitHub](https://github.com/qt/qt5/tree/pyside6)
 
 Der Quellcode für die in dieser Anwendung verwendete `gui_component.py` ist verfügbar unter:
-- [gui_component.py auf GitHub](https://github.com/kruemmel-python/Gru-karten/gui_component.py)
+- [gui_component.py auf GitHub](https://github.com/kruemmel-python/Gru-karten/blob/main/gui_component.py)
 
 ## Beitrag
 
