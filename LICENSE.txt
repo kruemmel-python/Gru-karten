@@ -23,12 +23,13 @@ The source code for PySide6 is available at the following locations:
 - https://code.qt.io/cgit/pyside/pyside-setup.git/
 - https://github.com/qt/qt5/tree/pyside6
 
-In addition, the source code for this application and any modifications made to PySide6 can be requested from the distributor of this application.
+The source code for the `gui_component.py` used in this application is available at:
+- https://github.com/kruemmel-python/Gru-karten/blob/main/gui_component.py
 
 Contact Information
 ===================
 For any inquiries regarding this application or the use of PySide6, please contact:
 
-[Your Company/Your Name]
-[Your Contact Information]
+Ralf Krümmel
+
 
